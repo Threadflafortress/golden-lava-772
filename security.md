@@ -129,4 +129,4 @@ El botón verde en la sección Inicio rápido.
 
 > 🧭 **Editor's note:** everything above is tested on the current 2026 build. If a step looks different on your machine, open an issue.
 
-*golden-lava-772 · Actualizado 2026-10-07 · Compartido bajo licencia MIT*
+*golden-lava-772 · Actualizado 2026-10-08 · Compartido bajo licencia MIT*
